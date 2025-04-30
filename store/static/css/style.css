@@ -1,4 +1,4 @@
-/* Pre loader*/
+Pre loader
  .loader{
     position: absolute;
     top: 0;
@@ -64,7 +64,7 @@ a:focus {
   border-radius: 0 5px 5px 0 ;
 }
 
-/*============ Dropdown*/
+/============ Dropdown/
 .navbar-nav{
 	display: block;
   padding: 1.2rem 2rem; 
@@ -154,7 +154,7 @@ ul.sub-menu {
   color: #fac10a;
   margin-right:2px;
 }
-/*============ category menu*/
+/============ category menu/
 .header-bottom {
   padding:0;
   border-bottom: 1px solid #D5D5D5;
@@ -278,7 +278,7 @@ ul.sub-menu {
     color: orange;
 }
 
-/*===========*/
+/===========/
 .messages{
   font-size: 13px;
 }
@@ -413,7 +413,7 @@ td a i {
     margin-top: -1px;
     z-index: 1;
 }
-/*============ Book Details*/
+/============ Book Details/
 .view-details {
   position: relative;
   border: 1px solid #F7F7F0;
@@ -544,7 +544,7 @@ ul.pages>li>img{
 .d-pagination{
   margin-top: 20px;
 }
-/*category*/
+/category/
 .search_menu{
   background:#efefef;
   height:40px;
@@ -706,7 +706,7 @@ ul.pages>li>img{
   color: #35d229;
   margin-bottom: 20px;
 }
-/*============*/
+/============/
 .footer{
   background:#232f3e;
   display: block;
